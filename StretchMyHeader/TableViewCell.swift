@@ -23,5 +23,18 @@ class TableViewCell: UITableViewCell {
 
         // Configure the view for the selected state
     }
+    
+    var newsItem: NewsItem? {
+        didSet {
+            if let item = newsItem {
+                category.text = item.category.rawValue
+                category.textColor = item.category.toColor()
+                headline.text = item.summary
+            } else {
+                category.text = nil
+                headline.text = nil
+            }
+        }
+    }
 
 }

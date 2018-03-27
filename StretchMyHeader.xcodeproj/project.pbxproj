@@ -42,7 +42,6 @@
 		897A7D62206ADC60007F596C = {
 			isa = PBXGroup;
 			children = (
-				897A7D82206AF124007F596C /* NewsItem.swift */,
 				897A7D6D206ADC60007F596C /* StretchMyHeader */,
 				897A7D6C206ADC60007F596C /* Products */,
 			);
@@ -59,6 +58,7 @@
 		897A7D6D206ADC60007F596C /* StretchMyHeader */ = {
 			isa = PBXGroup;
 			children = (
+				897A7D82206AF124007F596C /* NewsItem.swift */,
 				897A7D6E206ADC60007F596C /* AppDelegate.swift */,
 				897A7D70206ADC60007F596C /* ViewController.swift */,
 				897A7D72206ADC60007F596C /* Main.storyboard */,
