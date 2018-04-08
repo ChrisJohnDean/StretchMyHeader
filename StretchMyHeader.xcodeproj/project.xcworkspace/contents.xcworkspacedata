@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:../../../../../Documents/images"
+      name = "images">
+      <FileRef
+         location = "group:IMG_9444.PNG">
+      </FileRef>
+      <FileRef
+         location = "group:IMG_9445.PNG">
+      </FileRef>
+      <FileRef
+         location = "group:IMG_9446.PNG">
+      </FileRef>
+   </Group>
    <FileRef
-      location = "self:StretchMyHeader.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
