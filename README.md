@@ -4,5 +4,5 @@ StretchMyHeader is library written in Swift with a header that stretches as you 
 
 ### Screenshots
 
-![Screenshot](/images/IMG_9019.PNG) ![Screenshot](/images/IMG_9018.PNG)
-                  ![Screenshot](/images/IMG_9017.PNG)
+![Screenshot](/images/IMG_9444.PNG) ![Screenshot](/images/IMG_9445.PNG)
+                  ![Screenshot](/images/IMG_9446.PNG)
