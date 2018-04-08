@@ -5,13 +5,13 @@
       location = "group:../../../../../Documents/images"
       name = "images">
       <FileRef
-         location = "group:IMG_9444.PNG">
+         location = "group:../../Desktop/Lighthouse/Assignments/StretchMyHeader/images/IMG_9444.PNG">
       </FileRef>
       <FileRef
-         location = "group:IMG_9445.PNG">
+         location = "group:../../Desktop/Lighthouse/Assignments/StretchMyHeader/images/IMG_9445.PNG">
       </FileRef>
       <FileRef
-         location = "group:IMG_9446.PNG">
+         location = "group:../../Desktop/Lighthouse/Assignments/StretchMyHeader/images/IMG_9446.PNG">
       </FileRef>
    </Group>
    <FileRef
